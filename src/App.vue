@@ -1,9 +1,9 @@
 <script setup lang="ts">
-  import Game from './components/Game.vue'
+  import Puzzle from './components/Puzzle.vue'
 </script>
 
 <template>
-  <Game />
+  <Puzzle />
 </template>
 
 <style scoped></style>
